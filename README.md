@@ -2,6 +2,8 @@ v1.4.3 IS HERE as of 8/20/2026
 This is a mod pack converting my Minecraft Kit PvP from PS4/Bedrock to Wii U into a Battle Map 
 Please Join My Discord Server: https://discord.gg/GzU8TqH
 
+
+
 Date: 5/16/2026 
 Edit: Soon I Will In-port my Parkour Level's as it's OWN Battle Map so that Everyone can Battle and Parkour at the same time hope you Enjoy also I need more friends
 
@@ -9,6 +11,7 @@ if you wanna see my original work you could check out my server on Minecraft bed
 
 Java: zkkitpvp.minekeep.gg
 Bedrock: zkkitpvp.bedrock.minekeep.gg
+
 
 
 There's a Cemu Patch in the download listing and there is a Wii U patch as well to make it easier for everyone and I hope you Enjoy my Work and Everyone that has helped with it
@@ -21,6 +24,8 @@ if you wanna add me on Pretendo it's ( Zeldaking607 )
 Note: Do not use on public online lobby's unless it's in between your friends with the check mark enabled whenever making the mini games map or to play it by yourself make sure to check the solo check box and ensure the solo mini games mod pack is applied 
 
 
+
+
 -----UPDATES------
 [v1.4.3] 
 - Parkour Map
@@ -29,6 +34,9 @@ Note: Do not use on public online lobby's unless it's in between your friends wi
 - 5 New Biomes/Arenas ( including a Gateway to Locked spot )
 - FASTER LOAD TIMES HAS BEEN FIXED
 - New UI ( Includes the Panorama & a New Minecraft Logo [ Crimson Hollow ]
+
+
+
 
 ---------- known issues ----------
 
