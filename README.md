@@ -1,7 +1,7 @@
 v1.4.3 IS HERE as of 8/20/2026
 This is a mod pack converting my Minecraft Kit PvP from PS4/Bedrock to Wii U into a Battle Map 
 Please Join My Discord Server: https://discord.gg/GzU8TqH
-
+where my project can also be found: https://gamebanana.com/mods/677826
 
 
 Date: 5/16/2026 
