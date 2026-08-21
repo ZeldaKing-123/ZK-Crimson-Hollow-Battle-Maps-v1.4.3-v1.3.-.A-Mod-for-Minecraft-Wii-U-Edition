@@ -24,7 +24,7 @@ if you wanna add me on Pretendo it's ( Zeldaking607 )
 Note: Do not use on public online lobby's unless it's in between your friends with the check mark enabled whenever making the mini games map or to play it by yourself make sure to check the solo check box and ensure the solo mini games mod pack is applied 
 
 
-
+https://private-user-images.githubusercontent.com/68490309/639024039-33aaa5d4-2f39-45c5-8724-80e0bb399b53.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcyODc5NzQsIm5iZiI6MTc4NzI4NzY3NCwicGF0aCI6Ii82ODQ5MDMwOS82MzkwMjQwMzktMzNhYWE1ZDQtMmYzOS00NWM1LTg3MjQtODBlMGJiMzk5YjUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODIxVDA0NDc1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2NmI3ZDU4MTgwMjg0ZmYxZWNjOWNjZjM2OTRmZmZkYzU3ODZlN2U5ZWU3ODVjYTE5YmM3YjQ5MGE4YTI5ZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.tXYx44oSE3qvexoSA2nEYrMI9eTVCu-EjfPjwEbJs-w
 
 -----UPDATES------
 [v1.4.3] 
