@@ -2,6 +2,7 @@
 
 This is a mod pack converting my Minecraft Kit PvP from PS4/Bedrock to Wii U into a Battle Map 
 A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wii U Edition** as a Battle Mini-Game Map.
+<img width="278" height="179" alt="image" src="https://github.com/user-attachments/assets/67a80955-d270-460c-8e61-f8236fa21be5" />
 
 * **Discord:** [[https://discord.gg/GzU8TqH)](https://discord.gg/GzU8TqH)
 * **Pretendo ID:** Zeldaking607
@@ -17,6 +18,8 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 * **Refreshed Look:** Custom UI, new main menu panorama, custom logo, and hidden Easter Eggs.
 * **Optimized:** Core loading speed issues have been fixed in version 1.4.3.
 
+<img width="1253" height="708" alt="Screenshot 2026-08-19 210353" src="https://github.com/user-attachments/assets/48ca69c1-fa99-4c56-b5fc-b6e9c601acae" />
+
 -----UPDATES------
 [v1.4.3] 
 - Parkour Map
@@ -27,6 +30,16 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 - New UI ( Includes the Panorama & a New Minecraft Logo [ Crimson Hollow ]
 
 ---------------------------------------------------------------------------
+
+<img width="1268" height="704" alt="Screenshot 2026-08-19 210416" src="https://github.com/user-attachments/assets/12662c46-1354-4fed-8b28-c4463ccebc4a" />
+
+<img width="1279" height="718" alt="Screenshot 2026-08-19 210441" src="https://github.com/user-attachments/assets/487c1898-092c-47b4-95f6-8c9a19258723" />
+
+<img width="1263" height="706" alt="Screenshot 2026-08-19 210503" src="https://github.com/user-attachments/assets/8782a611-1dea-403c-818a-284e82e12e9b" />
+
+
+---------------------------------------------------------------------------
+
 
 ### 🔧 Installation
 
