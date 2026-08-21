@@ -1,30 +1,21 @@
-v1.4.3 IS HERE as of 8/20/2026
+# ZK Crimson Hollow | Battle Maps (v1.4.3) 8/20/2026
+
 This is a mod pack converting my Minecraft Kit PvP from PS4/Bedrock to Wii U into a Battle Map 
-Please Join My Discord Server: https://discord.gg/GzU8TqH
-where my project can also be found: https://gamebanana.com/mods/677826
+A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wii U Edition** as a Battle Mini-Game Map.
 
+* **Discord:** [https://discord.gg](https://discord.gg/GzU8TqH)
+* **Pretendo ID:** Zeldaking607
+* **Java Server IP:** zkkitpvp.minekeep.gg
+* **Bedrock Server IP:** zkkitpvp.bedrock.minekeep.gg
+* **where my project can also be found:** https://gamebanana.com/mods/677826
 
-Date: 5/16/2026 
-Edit: Soon I Will In-port my Parkour Level's as it's OWN Battle Map so that Everyone can Battle and Parkour at the same time hope you Enjoy also I need more friends
+---------------------------------------------------------------------------
 
-if you wanna see my original work you could check out my server on Minecraft bedrock/java by using the IP's below 
-
-Java: zkkitpvp.minekeep.gg
-Bedrock: zkkitpvp.bedrock.minekeep.gg
-
-
-
-There's a Cemu Patch in the download listing and there is a Wii U patch as well to make it easier for everyone and I hope you Enjoy my Work and Everyone that has helped with it
-
-if you wanna add me on Pretendo it's ( Zeldaking607 )
-
-
-**** please do not use this online unless it's between friends or Host ****
-
-Note: Do not use on public online lobby's unless it's in between your friends with the check mark enabled whenever making the mini games map or to play it by yourself make sure to check the solo check box and ensure the solo mini games mod pack is applied 
-
-
-
+### 🚀 Key Features
+* **New Arenas:** 5 new biomes, day/night variants, and a Gateway to a locked zone.
+* **Parkour Map:** Built directly into the map so you can fight and parkour at the same time.
+* **Refreshed Look:** Custom UI, new main menu panorama, custom logo, and hidden Easter Eggs.
+* **Optimized:** Core loading speed issues have been fixed in version 1.4.3.
 
 -----UPDATES------
 [v1.4.3] 
@@ -35,10 +26,39 @@ Note: Do not use on public online lobby's unless it's in between your friends wi
 - FASTER LOAD TIMES HAS BEEN FIXED
 - New UI ( Includes the Panorama & a New Minecraft Logo [ Crimson Hollow ]
 
+---------------------------------------------------------------------------
+
+### 🔧 Installation
+
+#### For Cemu Emulator
+1. Open Cemu.
+2. Go to **File** -> **Open Cemu Folder** -> **GraphicsPacks**.
+3. Place the mod pack folder directly inside this directory.
+
+#### For Wii U Console
+1. Insert your console's SD card into your PC.
+2. Navigate to your SD Caffeine directory: `SD card -> wiiu -> sdcaffeine -> [Your Game Title ID]`.
+3. Place the mod files directly inside that folder.
 
 
+**** please do not use this online unless it's between friends or Host ****
 
----------- known issues ----------
+Note: Do not use on public online lobby's unless it's in between your friends with the check mark enabled whenever making the mini games map or to play it by yourself make sure to check the solo check box and ensure the solo mini games mod pack is applied 
+
+---------------------------------------------------------------------------
+
+### ⚠️ Important Rules for Playing
+* **Do not use in public lobbies!** Players without this mod pack will see an empty world and walk on air.
+* **Friends Only:** Only play in private lobbies where every single friend has this exact mod installed.
+* **Going Solo:** Check the "Solo" box during match setup and verify the solo mini-games pack is active.
+
+---------------------------------------------------------------------------
+
+### 🐛 Known Issues
+* **Chests:** 13 chests do not work right now, and a few of those 13 have random spawn glitches.
+* **Spawn Glitch:** You might occasionally spawn far away from the mini-game lobby.
+* **Loading Times:** If loading takes too long between games, set your host match rules to longer rounds and multiple games.
+
 
 Date Found: 8/19/2026
 - Some Chests Will Not WORK & there are 13 that i still have to fix& there are 13 that i still have to fix but this needs to be released
