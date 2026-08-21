@@ -1,0 +1,44 @@
+# ZK Crimson Hollow | Battle Maps (v1.4.3)
+
+A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wii U Edition** as a Battle Mini-Game Map.
+
+* **Discord:** https://discord.gg
+* **Pretendo ID:** Zeldaking607
+* **Java Server IP:** zkkitpvp.minekeep.gg
+* **Bedrock Server IP:** zkkitpvp.bedrock.minekeep.gg
+
+---
+
+### 🚀 Key Features
+* **New Arenas:** 5 new biomes, day/night variants, and a Gateway to a locked zone.
+* **Parkour Map:** Built directly into the map so you can fight and parkour at the same time.
+* **Refreshed Look:** Custom UI, new main menu panorama, custom logo, and hidden Easter Eggs.
+* **Optimized:** Core loading speed issues have been fixed in version 1.4.3.
+
+---
+
+### 🔧 Installation
+
+#### For Cemu Emulator
+1. Open Cemu.
+2. Go to **File** -> **Open Cemu Folder** -> **GraphicsPacks**.
+3. Place the mod pack folder directly inside this directory.
+
+#### For Wii U Console
+1. Insert your console's SD card into your PC.
+2. Navigate to your SD Caffeine directory: `SD card -> wiiu -> sdcaffeine -> [Your Game Title ID]`.
+3. Place the mod files directly inside that folder.
+
+---
+
+### ⚠️ Important Rules for Playing
+* **Do not use in public lobbies!** Players without this mod pack will see an empty world and walk on air.
+* **Friends Only:** Only play in private lobbies where every single friend has this exact mod installed.
+* **Going Solo:** Check the "Solo" box during match setup and verify the solo mini-games pack is active.
+
+---
+
+### 🐛 Known Issues
+* **Chests:** 13 chests do not work right now, and a few of those 13 have random spawn glitches.
+* **Spawn Glitch:** You might occasionally spawn far away from the mini-game lobby.
+* **Loading Times:** If loading takes too long between games, set your host match rules to longer rounds and multiple games.
