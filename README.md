@@ -8,7 +8,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 * **Pretendo ID:** Zeldaking607
 * **Java Server IP:** zkkitpvp.minekeep.gg
 * **Bedrock Server IP:** zkkitpvp.bedrock.minekeep.gg
-* **where my project can also be found:** https://gamebanana.com/mods/677826
+* **Where my Project Can Also be Found:** https://gamebanana.com/mods/677826
 * **YouTube:** https://www.youtube.com/@zeldaking_123
 * **TikTok:** https://www.tiktok.com/@zeldaking_123
 
@@ -92,7 +92,9 @@ Date Found: 5/17/2026
 
 ---------------------------------------------------------------------------
 
-All IMGs Here
+**Game Play Video:** https://youtu.be/KBSlxnwRXL8
+
+**All In-Game IMGs Here**
 
 <img width="1836" height="1034" alt="6a090f9ce432a" src="https://github.com/user-attachments/assets/3bac55bb-b67b-4352-90fa-15cbdf33b38c" />
 
