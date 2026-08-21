@@ -2,13 +2,15 @@
 
 This is a mod pack converting my Minecraft Kit PvP from PS4/Bedrock to Wii U into a Battle Map 
 A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wii U Edition** as a Battle Mini-Game Map.
-<img width="278" height="179" alt="image" src="https://github.com/user-attachments/assets/67a80955-d270-460c-8e61-f8236fa21be5" />
+
 
 * **Discord:** [[https://discord.gg/GzU8TqH)](https://discord.gg/GzU8TqH)
 * **Pretendo ID:** Zeldaking607
 * **Java Server IP:** zkkitpvp.minekeep.gg
 * **Bedrock Server IP:** zkkitpvp.bedrock.minekeep.gg
 * **where my project can also be found:** https://gamebanana.com/mods/677826
+
+<img width="278" height="179" alt="image" src="https://github.com/user-attachments/assets/67a80955-d270-460c-8e61-f8236fa21be5" />
 
 ---------------------------------------------------------------------------
 
