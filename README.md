@@ -87,3 +87,45 @@ Date Found: 5/15/2026
 
 Date Found: 5/17/2026
 - when going into the lobby of a mini games sometimes you'll be spawned far away from it or in this case the map is far away from the actual original spawn points for some odd reason, also trying to figure this one out myself but if anyone's able to help that would be wonderful
+
+---------------------------------------------------------------------------
+
+All IMGs Here
+
+<img width="1836" height="1034" alt="6a090f9ce432a" src="https://github.com/user-attachments/assets/3bac55bb-b67b-4352-90fa-15cbdf33b38c" />
+
+<img width="1830" height="1032" alt="4" src="https://github.com/user-attachments/assets/1d1155e2-e7d6-4ea5-a0e3-774ac687f3cb" />
+
+<img width="1836" height="1030" alt="5" src="https://github.com/user-attachments/assets/90419a7d-61e4-42a9-b052-497cc5f30eea" />
+
+<img width="1837" height="1027" alt="6" src="https://github.com/user-attachments/assets/5fc66fa7-e201-47f5-88c9-6cb07530166e" />
+
+<img width="1825" height="1010" alt="7" src="https://github.com/user-attachments/assets/f3177637-8caa-4ec9-a3de-ac33acfecc93" />
+
+<img width="1840" height="1026" alt="8" src="https://github.com/user-attachments/assets/1f4c117a-083b-43fb-b6a1-8e0c14df0397" />
+
+<img width="1825" height="1022" alt="9" src="https://github.com/user-attachments/assets/c20fd050-f0e4-4bec-b244-4d0d3a288a3a" />
+
+<img width="1840" height="1021" alt="10" src="https://github.com/user-attachments/assets/27ab934c-63c8-42b9-a1f9-75c8b9e7222e" />
+
+<img width="1838" height="1032" alt="11" src="https://github.com/user-attachments/assets/b7744805-c63e-4607-83d1-ce9a4626ef01" />
+
+<img width="1275" height="713" alt="Screenshot 2026-08-19 205019" src="https://github.com/user-attachments/assets/9d9f91fa-f674-4043-b2b2-2fbf563fc41f" />
+
+<img width="1263" height="706" alt="Screenshot 2026-08-19 205154" src="https://github.com/user-attachments/assets/6585b1f1-9a3f-4d4a-be53-5b499ed35e5b" />
+
+<img width="1265" height="705" alt="Screenshot 2026-08-19 205231" src="https://github.com/user-attachments/assets/f4b61466-c939-4977-9db3-e953d8faccc6" />
+
+<img width="1272" height="711" alt="Screenshot 2026-08-19 205315" src="https://github.com/user-attachments/assets/9c124e22-851d-40fb-a292-fc14cc9cd18e" />
+
+<img width="1275" height="717" alt="Screenshot 2026-08-19 205352" src="https://github.com/user-attachments/assets/ca69fb8f-2f42-4637-9371-81e62636168f" />
+
+<img width="1273" height="711" alt="Screenshot 2026-08-19 205423" src="https://github.com/user-attachments/assets/b53d7c0e-9e35-4e96-96a6-47e0f0f5ba95" />
+
+<img width="1275" height="712" alt="Screenshot 2026-08-19 205518" src="https://github.com/user-attachments/assets/232b0d98-cf0b-403a-8068-18c6a557671f" />
+
+<img width="1265" height="705" alt="Screenshot 2026-08-19 205604" src="https://github.com/user-attachments/assets/d5ae81d6-574d-4855-83de-abbb5d502b75" />
+
+<img width="1261" height="708" alt="Screenshot 2026-08-19 205641" src="https://github.com/user-attachments/assets/1f875722-e19a-444d-a8c3-2ae21c54d90d" />
+
+<img width="1263" height="710" alt="Screenshot 2026-08-19 210746" src="https://github.com/user-attachments/assets/ebe0c739-0dd4-4923-ba1a-5074079fc140" />
