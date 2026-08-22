@@ -92,7 +92,9 @@ Date Found: 5/17/2026
 - when going into the lobby of a mini games sometimes you'll be spawned far away from it or in this case the map is far away from the actual original spawn points for some odd reason, also trying to figure this one out myself but if anyone's able to help that would be wonderful
 
 ---------------------------------------------------------------------------
+
 ------Q&A------
+
 Q: Is this an official Minecraft update?
 A: No. It is a free, community-made mod created by a player.
 
