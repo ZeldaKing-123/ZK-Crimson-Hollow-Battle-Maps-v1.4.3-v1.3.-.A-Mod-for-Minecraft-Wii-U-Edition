@@ -114,6 +114,7 @@ Q: What is Even this Mod?? How does it Work?
 A: It Adds 3 Custom New Battle Maps with some tweaks with items ( basic enchantments )  it's just a new experience, if you want to see more info about it just go to my YouTube I have a video there that shows off what the mod is..  Gameplay Video [ https://www.youtube.com/watch?v=KBSlxnwRXL8 ]
 A: I wanna be clear about this that there is nothing special Besides a custom logo & panorama, I also wanna be clear that there isn't any like new biomes or anything like that. No Crazy Mods or anything like that.
 A: What I refer to when I say that there is new 5 biomes that there is new battle arenas that players can battle in and all I've been doing is just adding to the map ( Like jungle Biome, spruce biome & More ) Again there is NO Custom Mods, The ONLY thing that IS Custom is the MAP Itself being usable with Minigames Battle alongside of you being able to use all of your original DLC ( Like the Fallout Maps & 2015 Battle Halloween Map & Other's )
+
 I hope this answers any other questions.
 
 
