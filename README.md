@@ -11,6 +11,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 * **Where my Project Can Also be Found:** https://gamebanana.com/mods/677826
 * **YouTube:** https://www.youtube.com/@zeldaking_123
 * **TikTok:** https://www.tiktok.com/@zeldaking_123
+* **Reddit:** https://www.reddit.com/r/ZK_CrimsonHollow/
 
 <img width="278" height="179" alt="image" src="https://github.com/user-attachments/assets/67a80955-d270-460c-8e61-f8236fa21be5" />
 
