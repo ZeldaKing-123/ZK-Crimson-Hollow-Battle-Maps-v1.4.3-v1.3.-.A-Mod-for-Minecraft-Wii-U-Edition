@@ -92,6 +92,28 @@ Date Found: 5/17/2026
 - when going into the lobby of a mini games sometimes you'll be spawned far away from it or in this case the map is far away from the actual original spawn points for some odd reason, also trying to figure this one out myself but if anyone's able to help that would be wonderful
 
 ---------------------------------------------------------------------------
+------Q&A------
+Q: Is this an official Minecraft update?
+A: No. It is a free, community-made mod created by a player.
+
+Q: Does this work on a standard, unmodified Wii U?
+A: No. You must have a modded Wii U console running homebrew environment (like Aroma or Tiramisu) to load the files.
+
+Q: Will this delete my existing Minecraft save worlds?
+A: No. It replaces game UI files and standard battle map slots, but it does not erase your personal survival or creative worlds.
+
+Q: Can I play this online with friends?
+A: Yes, but only with other players who are also using the exact same modded map files on their consoles.
+
+Q: Does this add new blocks or items to the game?
+A: No. It only rearranges existing game blocks to build new map layouts, visual menus, and parkour courses.
+
+Q: What is Even this Mod?? How does it Work?
+A: It Adds 3 Custom New Battle Maps with some tweaks with items ( basic enchantments )  it's just a new experience, if you want to see more info about it just go to my YouTube I have a video there that shows off what the mod is..  Gameplay Video [ https://www.youtube.com/watch?v=KBSlxnwRXL8 ]
+A: I wanna be clear about this that there is nothing special Besides a custom logo & panorama, I also wanna be clear that there isn't any like new biomes or anything like that. No Crazy Mods or anything like that.
+A: What I refer to when I say that there is new 5 biomes that there is new battle arenas that players can battle in and all I've been doing is just adding to the map ( Like jungle Biome, spruce biome & More ) Again there is NO Custom Mods, The ONLY thing that IS Custom is the MAP Itself being usable with Minigames Battle alongside of you being able to use all of your original DLC ( Like the Fallout Maps & 2015 Battle Halloween Map & Other's )
+I hope this answers any other questions.
+
 
 **Game Play Video:** https://youtu.be/KBSlxnwRXL8
 
