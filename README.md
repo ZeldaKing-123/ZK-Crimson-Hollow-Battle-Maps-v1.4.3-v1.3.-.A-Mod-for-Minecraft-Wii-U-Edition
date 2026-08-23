@@ -73,6 +73,8 @@ Note: Do not use on public online lobby's unless it's in between your friends wi
 ---------------------------------------------------------------------------
 
 ### 🐛 Known Issues
+
+FIXED in [1.4.4]
 * **Chests:** 13 chests do not work right now, and a few of those 13 have random spawn glitches.
 * **Spawn Glitch:** You might occasionally spawn far away from the mini-game lobby.
 * **Loading Times:** If loading takes too long between games, set your host match rules to longer rounds and multiple games.
