@@ -5,7 +5,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 
 
 * **Discord:** [https://discord.gg/GzU8TqH](https://discord.gg/GzU8TqH)
-* **Pretendo ID:** Zeldaking607
+* **Pretendo ID:** ZK_CrimsonHollow
 * **Java Server IP:** zkkitpvp.minekeep.gg
 * **Bedrock Server IP:** zkkitpvp.bedrock.minekeep.gg
 * **Where my Project Can Also be Found:** https://gamebanana.com/mods/677826
