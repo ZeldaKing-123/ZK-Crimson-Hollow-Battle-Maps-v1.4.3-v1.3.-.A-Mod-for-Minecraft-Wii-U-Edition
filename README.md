@@ -17,7 +17,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 
 ---------------------------------------------------------------------------
 
-### 🚀 Key Features
+### 🚀 Key Features - [v1.4.4]
 * **New Arenas:** 5 new biomes, day/night variants, and a Gateway to a locked zone.
 * **Parkour Map:** Built directly into the map so you can fight and parkour at the same time.
 * **Refreshed Look:** Custom UI, new main menu panorama, custom logo, and hidden Easter Eggs.
@@ -46,7 +46,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 ---------------------------------------------------------------------------
 
 
-### 🔧 Installation
+### 🔧 Installation Guide 
 
 #### For Cemu Emulator
 1. Open Cemu.
@@ -124,6 +124,9 @@ A: What I refer to when I say that there is new 5 biomes that there is new battl
 
 
 **Game Play Video:** https://youtu.be/KBSlxnwRXL8
+
+
+
 
 **All In-Game IMGs Here**
 
