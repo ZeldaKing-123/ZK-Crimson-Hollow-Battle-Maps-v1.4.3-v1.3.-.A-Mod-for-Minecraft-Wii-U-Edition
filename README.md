@@ -1,4 +1,4 @@
-# ZK Crimson Hollow | Battle Maps (v1.4.4) 8/20/2026
+# ZK Crimson Hollow | Battle Maps
 
 This is a mod pack converting my Minecraft Kit PvP from PS4/Bedrock to Wii U into a Battle Map 
 A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wii U Edition** as a Battle Mini-Game Map.
@@ -50,7 +50,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 
 #### For Cemu Emulator
 1. Open Cemu.
-2. Go to **File** -> **Open Cemu Folder** -> **GraphicsPacks**.
+2. Go to `**File** -> **Open Cemu Folder** -> **GraphicsPacks** `.
 3. Place the mod pack folder directly inside this directory.
 
 #### For Wii U Console
@@ -58,6 +58,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 2. Navigate to your SD Caffeine directory: `SD card -> wiiu -> sdcaffeine -> [Your Game Title ID]`.
 3. Place the mod files directly inside that folder.
 
+[ Install Video - https://youtu.be/Ho-zZHEKGtQ?si=KT26O8f68GOn4Hzp ]
 
 **** please do not use this online unless it's between friends or Host ****
 
@@ -74,23 +75,23 @@ Note: Do not use on public online lobby's unless it's in between your friends wi
 
 ### 🐛 Known Issues
 
-FIXED in [1.4.4]
+FIXED in [1.4.4] - Date Found: 8/20/2026
 * **Chests:** 13 chests do not work right now, and a few of those 13 have random spawn glitches.
 * **Spawn Glitch:** You might occasionally spawn far away from the mini-game lobby.
 * **Loading Times:** If loading takes too long between games, set your host match rules to longer rounds and multiple games.
 
 
-Date Found: 8/19/2026
+[1.4.3] - Date Found: 8/19/2026
 - Some Chests Will Not WORK & there are 13 that i still have to fix& there are 13 that i still have to fix but this needs to be released
 
 
-Date Found: 5/15/2026
+[1.3] - Date Found: 5/15/2026
 - Long Loading Screen wait in between games, I recommend whenever Hosting to set the settings to longer rounds and make it so that there's multiple games as opposed to just one
 
-Date Found: 5/15/2026
+[1.3] - Date Found: 5/15/2026
 - whenever other player doesn't have the mod pack the world will appear to have nothing & the other player is walking around on air, this problem is here because the other user is missing those necessary files is the reason why it won't work in public lobbies, this will only work in between friends and if you have this same exact mod pack
 
-Date Found: 5/17/2026
+[1.3] - Date Found: 5/17/2026
 - when going into the lobby of a mini games sometimes you'll be spawned far away from it or in this case the map is far away from the actual original spawn points for some odd reason, also trying to figure this one out myself but if anyone's able to help that would be wonderful
 
 ---------------------------------------------------------------------------
@@ -119,7 +120,7 @@ A: It Adds 3 Custom New Battle Maps with some tweaks with items ( basic enchantm
 A: I wanna be clear about this that there is nothing special Besides a custom logo & panorama, I also wanna be clear that there isn't any like new biomes or anything like that. No Crazy Mods or anything like that.
 A: What I refer to when I say that there is new 5 biomes that there is new battle arenas that players can battle in and all I've been doing is just adding to the map ( Like jungle Biome, spruce biome & More ) Again there is NO Custom Mods, The ONLY thing that IS Custom is the MAP Itself being usable with Minigames Battle alongside of you being able to use all of your original DLC ( Like the Fallout Maps & 2015 Battle Halloween Map & Other's )
 
-I hope this answers any other questions.
+[ I hope this answers any other questions. ]
 
 
 **Game Play Video:** https://youtu.be/KBSlxnwRXL8
