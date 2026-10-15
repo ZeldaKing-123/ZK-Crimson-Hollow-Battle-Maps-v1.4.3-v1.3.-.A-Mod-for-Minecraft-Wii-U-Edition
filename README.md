@@ -50,7 +50,7 @@ A conversion mod pack bringing the PS4/Bedrock Kit PvP project to **Minecraft Wi
 
 #### For Cemu Emulator
 1. Open Cemu.
-2. Go to `**File** -> **Open Cemu Folder** -> **GraphicsPacks** `.
+2. Go to `File -> Open Cemu Folder -> GraphicsPacks `.
 3. Place the mod pack folder directly inside this directory.
 
 #### For Wii U Console
