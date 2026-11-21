@@ -1,0 +1,17 @@
+PCK GRFs
+Level Rules > NamedArea > ActiveArea = Player Area for PVP
+Level Rules > NamedArea > MaxPlayerBounds = Play Zone (Barriers) 
+Level Rules > NamedArea > Spawn Cords? or Minigames Menu Maps 
+
+
+====== PS3 ======
+PCK Studio GRF File Compression Type for PS3
+
+Level:  None
+Type:  PS3
+
+====== Wii U ======
+PCK Studio GRF File Compression Type for Wii u
+
+Level:  Compressed + RLE + CRC
+Type:  Xbox360 (or Wii U.   Don't Really Know)
